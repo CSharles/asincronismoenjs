@@ -7,7 +7,9 @@
     "callback": "node src/callbacks/index.js",
     "callback:challenge": "node src/callbacks/challenge.js",
     "promesas":"node src/promesas/index.js",
-    "promesas:challenge":"node src/promesas/challenge.js"
+    "promesas:challenge":"node src/promesas/challenge.js",
+    "async":"node src/async/index.js"
+    
   },
   "keywords": [
     "callbacks",
